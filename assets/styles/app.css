@@ -1,3 +1,6 @@
 body {
-    background-color: lightgray;
+    /* background-color: lightgray; */
+    background-image: url('https://w7.pngwing.com/pngs/171/887/png-transparent-leia-organa-anakin-skywalker-poster-film-darth-vader-photography-computer-wallpaper-film-poster.png');
+    color: red;
+    background-size: cover;
 }
